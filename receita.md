@@ -20,26 +20,26 @@
 
 1. Em uma bacia grande, adicione os seguintes ingredientes: sal, açúcar, fermento, manteiga da terra e a água morna. 
 
-2. Misture tudo utilizando a batedeira ou uma uma colher firme.
+2. Misture tudo utilizando a batedeira ou uma uma colher.
 
 2. Após estar tudo misturado, adicione metade da farinha de trigo e continue misturando até que a massa fique homogênea.
 
 3. Adicione a outra metade da farinha de trigo e continue misturando até que todos os ingredientes estejam incorporados. 
-Nesta etapa, a massa ficará pesada, então é possível finalizar a mistura com as mãos.
+Nesta etapa, a massa ficará pesada. Caso não use batedeira você pode finalizar a mistura com as mãos.
 
 ### Etapa 2 - Espera 1
-4. Tampe a bacia deixando uma pequena abertura e deixe a massa descansar em temperatura ambiente por 3 horas.
+4. Tampe a bacia deixando uma pequena abertura. Deixe a massa descansar em temperatura ambiente por 3 horas.
 
 ### Etapa 3 - Moldar os pães
 5. Com as mãos limpas e levemente untadas com manteiga da terra, você pode separar a massa em porções de:
 - 280g cada. Essa quantidade rende 6 pães;
 - 86g cada. Essa quantidade rende 20 pães.
 
-6. Unte a forma com manteiga da terra e envolva cada bolinha de massa com cerca de 1g de manteiga da terra. 
+6. Unte a forma com manteiga da terra e envolva cada bolinha de massa com uma camada de manteiga da terra. 
 Isso protegerá a massa de rachaduras enquanto cresce e trará um cheiro ainda mais marcante ao seu pão.
 
 ### Etapa 4 - Espera 2
-7. Deixe os pães descansarem por mais 1 hora na forma onde serão assados, até que aumentem de tamanho.
+7. Deixe os pães descansarem por mais 1 hora na forma onde serão assados, eles vão aumentar de tamanho.
 
 ### Etapa 5 - Assar
 8. Asse em forno baixo por 35 a 45 minutos ou até que a crosta fique dourada.
