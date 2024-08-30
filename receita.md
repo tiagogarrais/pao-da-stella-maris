@@ -1,4 +1,4 @@
-### O que você vai precisar (Mise en place)
+### O que você vai precisar
 - Uma balança de cozinha (Todos os ingredientes são pesados, até a água)
 - Uma bacia grande com tampa (10 litros de volume)
 - Uma batedeira que suporte massa pesada (Você pode usar as mãos)
