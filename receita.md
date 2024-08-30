@@ -51,4 +51,5 @@ Um dos objetivo desta etapa é que a umidade e os vapores saiam de dentro dos p�
 
 ### Etapa 7 - Armazenagem
 10. Guarde os pães em uma vasilha hermeticamente fechada ou em saco plástico. A armazenagem em saco de papel não é 
-recomendada porque o pão perde umidade e fica seco muito rápido. A armazenagem correta mantém seu pão macio por até 3 dias.
+recomendada porque o pão perde umidade e fica seco muito rápido. A armazenagem correta mantém seu pão macio por pelo
+menos 3 dias.
