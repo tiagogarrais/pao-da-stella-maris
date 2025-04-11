@@ -1,0 +1,31 @@
+{
+  "name": "pao-da-stella-maris",
+  "version": "1.0.0",
+  "description": "Página do Pão da Stella Maris",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagogarrais/pao-da-stella-maris.git"
+  },
+  "author": "Tiago das Graças Arrais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagogarrais/pao-da-stella-maris/issues"
+  },
+  "homepage": "https://github.com/tiagogarrais/pao-da-stella-maris#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.3",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "prettier": "latest",
+    "tailwindcss": "^4.1.3"
+  }
+}
