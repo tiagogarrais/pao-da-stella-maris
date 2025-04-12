@@ -1,11 +1,43 @@
+import ImageGallery from "react-image-gallery";
+import "react-image-gallery/styles/css/image-gallery.css";
+
 export default function Home() {
+  const images = [
+    {
+      original: "/images/pao1.jpg",
+      thumbnail: "/images/pao1.jpg",
+    },
+    {
+      original: "/images/pao2.jpg",
+      thumbnail: "/images/pao2.jpg",
+    },
+    {
+      original: "/images/pao3.jpg",
+      thumbnail: "/images/pao3.jpg",
+    },
+    {
+      original: "/images/pao4.jpg",
+      thumbnail: "/images/pao4.jpg",
+    },
+    {
+      original: "/images/pao5.jpg",
+      thumbnail: "/images/pao5.jpg",
+    },
+    {
+      original: "/images/pao6.jpg",
+      thumbnail: "/images/pao6.jpg",
+    },
+  ];
+
   return (
     <>
       <main className="max-w-4xl mx-auto p-6">
         <h1 className="text-4xl font-bold mb-6">
           Receita do Pão da Stella Maris
         </h1>
-
+        <label>
+          <ImageGallery showThumbnails={false} autoPlay={true} items={images} />
+        </label>
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-2">
             O que você vai precisar
@@ -24,7 +56,6 @@ export default function Home() {
             <li>Qualquer tipo de forno</li>
           </ul>
         </section>
-
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-2">Ingredientes</h2>
           <ul className="list-disc list-inside space-y-1">
@@ -51,7 +82,6 @@ export default function Home() {
             </li>
           </ul>
         </section>
-
         <section>
           <h2 className="text-2xl font-semibold mb-2">Modo de Fazer</h2>
           <div className="mb-6">
